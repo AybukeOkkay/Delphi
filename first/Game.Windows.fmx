@@ -1,0 +1,53 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 200
+    MultiResBitmap.Width = 400
+  end
+  inherited Image2: TImage
+    MultiResBitmap.Height = 114
+    MultiResBitmap.Width = 162
+  end
+  inherited Image3: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+    Position.X = 142.000000000000000000
+    Position.Y = -44.000000000000000000
+  end
+  inherited Image4: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+    Position.X = 142.000000000000000000
+    Position.Y = 376.000000000000000000
+  end
+  inherited Image5: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+    Position.X = 328.000000000000000000
+    Position.Y = -64.000000000000000000
+  end
+  inherited Image6: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+    Position.X = 544.000000000000000000
+    Position.Y = -32.000000000000000000
+  end
+  inherited Image7: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+    Position.X = 328.000000000000000000
+    Position.Y = 331.000000000000000000
+  end
+  inherited Image8: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+    Position.X = 544.000000000000000000
+    Position.Y = 347.000000000000000000
+  end
+  inherited Timer1: TTimer
+    Interval = 10
+    OnTimer = Timer1Timer
+    Left = 200
+    Top = 296
+  end
+end

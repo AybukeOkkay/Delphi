@@ -1,0 +1,39 @@
+inherited Form1_LgXhdpiTb: TForm1_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    MultiResBitmap.Height = 200
+    MultiResBitmap.Width = 400
+    Size.Width = 480.000000000000000000
+    Size.Height = 829.000000000000000000
+  end
+  inherited Image2: TImage
+    MultiResBitmap.Height = 114
+    MultiResBitmap.Width = 162
+  end
+  inherited Image3: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+  end
+  inherited Image4: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+  end
+  inherited Image5: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+  end
+  inherited Image6: TImage
+    MultiResBitmap.Height = 369
+    MultiResBitmap.Width = 101
+  end
+  inherited Image7: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+  end
+  inherited Image8: TImage
+    MultiResBitmap.Height = 370
+    MultiResBitmap.Width = 103
+  end
+end
